@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiofiles
+langchain
+langchain-ollama
+python-dotenv
+cryptography
+pyjwt
+pytest
+requests
